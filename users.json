@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "name": "Manoj Malwadkar",
+  "email": "manoj@gmail.com",
+  "password": "$2a$10$ynwKGPP/18SY5glbLRwhZOHXapwO6HLm1qTfVIgHtcXiBCJCyWZca",
+  "avatar": {
+    "public_id": "avatars/q1oux0fiiovije4h94zi",
+    "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1682597581/avatars/q1oux0fiiovije4h94zi.png"
+  },
+  "role": "user",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-26T16:28:28.050Z"
+  }
+},{
+  "_id": {
+    "$oid": "64240b17f92d72ee6ff7de6a"
+  },
+  "name": "manonJ",
+  "email": "markpatil7620@gmail.com",
+  "password": "$2a$10$rVMBJyzJ0faHmDYyPFI7l.dtNaE4ZYceEcYwNL.XBwvGTafw4gk8e",
+  "avatar": {
+    "public_id": "avatars/jckcvsxmrnrvh5orbrap",
+    "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1682666206/avatars/jckcvsxmrnrvh5orbrap.png"
+  },
+  "role": "user",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-27T12:46:49.838Z"
+  }
+},{
+  "_id": {
+    "$oid": "645b554fef6b87f6e406bce7"
+  },
+  "name": "Admin",
+  "email": "manojmalwadkar2611@gmail.com",
+  "password": "$2a$10$1JcJ4IYZPV9VKXvF6UkUWuVDU8GjCzatWxlWW9YBHHHrJjV/ItHUC",
+  "avatar": {
+    "public_id": "avatars/ngswulwtcu50sltitdwm",
+    "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683707202/avatars/ngswulwtcu50sltitdwm.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2023-05-10T08:26:55.087Z"
+  },
+  "__v": 0
+}]

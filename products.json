@@ -1,0 +1,357 @@
+[{
+  "_id": {
+    "$oid": "64213fbc9413b3d867189cc7"
+  },
+  "name": "Amul Butter 100 g",
+  "description": "Made with fresh ingredients, Amul Butter is a multi-purpose butter that can be used as a spread on bread, paratha, roti, naan and sandwiches.",
+  "price": 54,
+  "images": [
+    {
+      "public_id": "products/j8lmsjd4utjnlqb3e1gl",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683896968/products/j8lmsjd4utjnlqb3e1gl.jpg",
+      "_id": {
+        "$oid": "645e3a8cf523a2a5b4e15315"
+      }
+    },
+    {
+      "public_id": "products/mnvl9eih0jth33olehpr",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683896971/products/mnvl9eih0jth33olehpr.jpg",
+      "_id": {
+        "$oid": "645e3a8cf523a2a5b4e15316"
+      }
+    }
+  ],
+  "category": "Bakery",
+  "Stock": 10,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-27T07:03:24.544Z"
+  },
+  "__v": 1,
+  "ratings": 0
+},{
+  "_id": {
+    "$oid": "64256d058da163574d64d12a"
+  },
+  "name": "Aashirvaad Superior MP",
+  "description": "it has a sweet and aromatic taste that works together to give you fuller and softer rotis, every single time.",
+  "price": 468,
+  "images": [
+    {
+      "public_id": "products/f1mwrfxtmvcl7wvrhvj7",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897170/products/f1mwrfxtmvcl7wvrhvj7.jpg",
+      "_id": {
+        "$oid": "645e3b53127ccd42a2065760"
+      }
+    }
+  ],
+  "category": "Staples",
+  "Stock": 15,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "64240b17f92d72ee6ff7de6a"
+      },
+      "name": "manonJ",
+      "rating": 5,
+      "comment": "Goog PRODUCT",
+      "_id": {
+        "$oid": "6454f9316ba976cd52ca620b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T11:05:41.619Z"
+  },
+  "__v": 1,
+  "ratings": 5
+},{
+  "_id": {
+    "$oid": "64256f8c0c4bdb67e11591d3"
+  },
+  "name": "Red Bull 250 ml (4 pcs)",
+  "description": " a drink that you will crave during strenuous workout sessions. Enjoy this drink on the go or use it to prepare the cocktails. The great packaging lends a funky feel to this product.",
+  "price": 380,
+  "images": [
+    {
+      "public_id": "products/oykhhpvydblrs529bgml",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897419/products/oykhhpvydblrs529bgml.jpg",
+      "_id": {
+        "$oid": "645e3c4c720a4a2d4d179207"
+      }
+    }
+  ],
+  "category": "Energy Drinks",
+  "Stock": 10,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "64240b17f92d72ee6ff7de6a"
+      },
+      "name": "manonJ",
+      "rating": 4,
+      "comment": "awdwa",
+      "_id": {
+        "$oid": "6454f0696ba976cd52ca6103"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T11:16:28.012Z"
+  },
+  "__v": 1,
+  "ratings": 4
+},{
+  "_id": {
+    "$oid": "6425704f32270b897d99dc36"
+  },
+  "name": "Colgate Strong 500 g",
+  "description": "Colgate Strong Teeth Dental Cream Toothpaste, with its unique Calcium Boost formula, helps add back lost natural Calcium to make teeth 2 times stronger. Stronger teeth aid in better chewing, which enables better absorption of nutrients. ",
+  "price": 223,
+  "images": [
+    {
+      "public_id": "products/ezyfdoqlqpzr8bfvsb4n",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897607/products/ezyfdoqlqpzr8bfvsb4n.jpg",
+      "_id": {
+        "$oid": "645e3d0771dd297bd6457aa8"
+      }
+    }
+  ],
+  "category": "Personal Care",
+  "Stock": 20,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "64240b17f92d72ee6ff7de6a"
+      },
+      "name": "manonJ",
+      "rating": 4,
+      "comment": "amazing",
+      "_id": {
+        "$oid": "6454ea8f6ba976cd52ca600d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-30T11:19:43.523Z"
+  },
+  "__v": 1,
+  "ratings": 4
+},{
+  "_id": {
+    "$oid": "642699d59389971ee03107fb"
+  },
+  "name": "Closeup 150 g (Pack of 2)",
+  "description": "Closeup Everfresh+ Gel Toothpaste is for you! Bad breath is a common condition that affects many people and has health as well as social implications. It can be caused by the millions of bacteria that live in your mouth. ",
+  "price": 125,
+  "ratings": 3,
+  "images": [
+    {
+      "public_id": "products/suw1vpjgxycucmsswv1h",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897657/products/suw1vpjgxycucmsswv1h.jpg",
+      "_id": {
+        "$oid": "645e3d3a71dd297bd6457ac4"
+      }
+    }
+  ],
+  "category": "Personal Care",
+  "Stock": 12,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "642171624e453a793192c468"
+      },
+      "name": "Manoj Malwadkar",
+      "rating": 3,
+      "comment": "nice one\n",
+      "_id": {
+        "$oid": "645c7bf683e2be982c1550b8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-31T08:29:09.464Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "643c2a4e3c1357af6919b06f"
+  },
+  "name": "Pepsodent 150g (Pack 2)",
+  "description": "Pepsodent Germicheck Advance Anti-Germ Formula Toothpaste helps you enjoy cleaner teeth and fresh breath all day long. Brush your teeth twice a day with this toothpaste for better results. ",
+  "price": 104,
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "products/ugog89fpkfwsjdd7jc70",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897730/products/ugog89fpkfwsjdd7jc70.jpg",
+      "_id": {
+        "$oid": "645e3d8371dd297bd6457aeb"
+      }
+    }
+  ],
+  "category": "Personal Care",
+  "Stock": 16,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "642171624e453a793192c468"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "64240b17f92d72ee6ff7de6a"
+      },
+      "name": "manonJ",
+      "rating": 4,
+      "comment": "adwa",
+      "_id": {
+        "$oid": "645a238aff533172d87b0c85"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-16T17:03:10.267Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6459ea778ec78916974dbfbc"
+  },
+  "name": "Surf Excel 2 L",
+  "description": "Surf Excel Matic Top Load Liquid Detergent offers tough stain removal while protecting your clothes and leaving no residue behind. This liquid detergent protects your clothes from fading and ensures the colour of the fabric remains bright, even after repeated washing. ",
+  "price": 322,
+  "ratings": 3,
+  "images": [
+    {
+      "public_id": "products/ymnfxjtdpmjifgodmbyz",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683897858/products/ymnfxjtdpmjifgodmbyz.jpg",
+      "_id": {
+        "$oid": "645e3e02b3edc153f2b564fb"
+      }
+    }
+  ],
+  "category": "Home Care",
+  "Stock": 10,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "64240b17f92d72ee6ff7de6a"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "64240b17f92d72ee6ff7de6a"
+      },
+      "name": "manonJ",
+      "rating": 3,
+      "comment": "not good\n",
+      "_id": {
+        "$oid": "6459eb078ec78916974dc03b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-09T06:38:47.839Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "645e3ecf7a5c02efb9f8b121"
+  },
+  "name": "Good Life Almonds 500 g",
+  "description": "Almonds are used in products such as cakes, bread, biscuits, muesli, confectionery and ice cream. One such cake is Bakewell tart. Almonds are used to make marzipan, frangipane and praline.",
+  "price": 365,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hvq4gg4thnert64ortuq",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683898063/products/hvq4gg4thnert64ortuq.jpg",
+      "_id": {
+        "$oid": "645e3ecf7a5c02efb9f8b122"
+      }
+    }
+  ],
+  "category": "Dry Fruits",
+  "Stock": 8,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "645b554fef6b87f6e406bce7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-12T13:27:43.919Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e3f8b7a5c02efb9f8b169"
+  },
+  "name": "Good Life (W320) Cashews 500 g",
+  "description": "Good Life W320 Cashews are a tasty and nutritious dry fruit snack. They are used in many recipes, especially in sweets and icecreams. It is also used for thickening water-based dishes such as soups, meat stews and some Indian milk-based desserts. ",
+  "price": 405,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/fjlodmwsfhvn7bmv57an",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683898251/products/fjlodmwsfhvn7bmv57an.jpg",
+      "_id": {
+        "$oid": "645e3f8b7a5c02efb9f8b16a"
+      }
+    }
+  ],
+  "category": "Dry Fruits",
+  "Stock": 21,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "645b554fef6b87f6e406bce7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-12T13:30:51.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e3fd77a5c02efb9f8b1c2"
+  },
+  "name": "Triangle 1 Kg Walnut Without Shell Quarter Kernels",
+  "description": "Triangle 1 Kg Walnut Without Shell Quarter Kernels | Kashmiri Quarter Akhrot Giri | Walnut Kernels 1000 Grams| Vaccum Packed | Pack Of 2 x 500 Grams| Without Shell 1 Kg Akhrot Giri",
+  "price": 640,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/gw4bbmrwhuac6lmnjfbi",
+      "url": "https://res.cloudinary.com/dz4dglu8l/image/upload/v1683898326/products/gw4bbmrwhuac6lmnjfbi.jpg",
+      "_id": {
+        "$oid": "645e3fd77a5c02efb9f8b1c3"
+      }
+    }
+  ],
+  "category": "Dry Fruits",
+  "Stock": 13,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "645b554fef6b87f6e406bce7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-12T13:32:07.224Z"
+  },
+  "__v": 0
+}]
